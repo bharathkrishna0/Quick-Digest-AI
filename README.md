@@ -1,8 +1,8 @@
-# Quick-Digest-AI-AI Article Summarizer 🚀
+# Quick-Digest-AI- Article Summarizer 🚀
 Transform lengthy articles into bite-sized summaries instantly. AI-powered reading assistant that saves you time on every webpage.
 
 
-![QuickDigest Banner](https://via.placeholder.com/800x200/4CAF50/white?text=QuickDigest+-+AI+Article+Summarizer)
+![Quick Digest UI](./Screenshot%202025-06-07%20233923.png)
 
 ## ✨ Features
 
@@ -15,13 +15,6 @@ Transform lengthy articles into bite-sized summaries instantly. AI-powered readi
 * 🎯 **Smart Selection** - Automatically detects and summarizes relevant content
 * 🔒 **Privacy Focused** - Your reading habits stay private
 
-## 🖼️ UI Preview
-
-Here's how the popup looks:
-
-![QuickDigest Popup Interface](https://via.placeholder.com/400x300/2196F3/white?text=QuickDigest+Popup+UI)
-
-*Clean, intuitive interface with summary options and one-click actions*
 
 ## 📁 Project Structure
 
